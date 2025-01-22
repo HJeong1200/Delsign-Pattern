@@ -50,3 +50,8 @@ TODO: Add Image
 1. 팩토리를 단일체로 정의
 2. 각 제품을 위한 팩토리 메서드 정의
 3. 확장 가능한 팩토리 정의
+
+## 실제 구현 코드 데모
+
+- Demo 디렉토리의 코드에 대한 실제 예시는 아래 링크에서 확인 가능합니다.
+  - https://stackblitz.com/edit/vitejs-vite-rstbp6gz
