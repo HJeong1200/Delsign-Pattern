@@ -17,7 +17,7 @@
 
 ## 구조
 
-TODO: Add Image
+<img width="690" alt="image" src="https://github.com/user-attachments/assets/586a226c-7b5a-4b4a-afa6-f2790cd6076d" />
 
 ## 참여자
 
