@@ -15,7 +15,7 @@
 
 ## 구조
 
-TODO: Add image
+<img width="669" alt="스크린샷 2025-02-09 오후 3 14 44" src="https://github.com/user-attachments/assets/da2179a1-73a9-4e03-9b73-4411c3f19686" />
 
 ## 참여자
 
@@ -44,5 +44,3 @@ TODO: Add image
 
 - 인스턴스 생성 방법을 비공개로 설정하여 단 하나의 인스턴스만 생성하도록 제어
 - Singleton을 registry에 등록하여 필요한 경우 가져올 수도 있음
-
-## 실제 구현 코드 데모
