@@ -16,7 +16,7 @@
 
 ## 구조
 
-TODO: Add Image
+<img width="664" alt="스크린샷 2025-02-09 오후 3 15 21" src="https://github.com/user-attachments/assets/c1ce7dc1-d728-4f41-95c3-f48b933d1453" />
 
 ## 참여자
 
@@ -50,5 +50,3 @@ TODO: Add Image
 
 - Creator는 추상 클래스일 수도 있고, 기본적인 구현을 가진 구체 클래스일 수도 있음
 - Factory 메서드에 파라미터를 전달하여 여러 종류의 Product를 생성할 수 있음
-
-## 실제 구현 코드 데모
