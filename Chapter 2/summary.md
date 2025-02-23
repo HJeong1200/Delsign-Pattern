@@ -37,10 +37,14 @@
   - 간단한 요소를 합성하여 복합적인 요소를 만드는 방법
   - 시각적 요소 (글자, 그래픽) 및 구조적 요소 (행, 열) 등을 각각 하나의 객체로 표현
   - 각각의 객체를 재귀적으로 합성하여 구조 형성
+  <img width="646" alt="image" src="https://github.com/user-attachments/assets/63f643b6-7539-4b78-8312-632966e15d17" />
+  
 - 글리프 (Glyph)
   - 화면에 표시되는 구성 요소를 포괄적으로 일컫는 개념
   - 모든 객체를 위한 추상 클래스
     - 글리프의 서브클래스는 기본적인 시각적 요소와 구조적 요소를 정의
+  <img width="645" alt="image" src="https://github.com/user-attachments/assets/10cc8b33-1146-4efb-9cf6-b28793fb2ca7" />
+  
   - 글리프의 책임
     - 자신을 그리는 방법 정의
     - 자신이 차지하는 영역을 확인하는 방법 정의
@@ -159,6 +163,8 @@
     - GuiFactory의 서브클래스로 다양한 스타일을 만드는 제품 클래스 생성
       - MacFactory, WindowsFactory, LinuxFactory 등
       - 각각의 서브클래스는 GuiFactory의 연산을 구현하여 특정 룩앤필을 만족하는 위젯 반환
+      <img width="645" alt="image" src="https://github.com/user-attachments/assets/4470bb61-0961-4703-b58a-da44dbd3a2e8" />
+
 
 ## Issue 5. 다중 윈도우 시스템 지원
 
@@ -212,6 +218,8 @@
   - Command 추상 클래스에서 요청을 발생시키는 execute 추상 연산 정의
   - Command 클래스의 서브클래스는 요청 수행을 위해 서로 다른 방식으로 execute 연산 구현
   - 각 메뉴 항목 객체는 해당 객체에 맞는 Command 객체를 저장하고 호출 시 execute 연산을 호출하여 필요한 연산 수행 가능
+  <img width="674" alt="image" src="https://github.com/user-attachments/assets/69ecdfd7-d9ee-49fe-bba2-97bf4b7effdd" />
+
 - Undo / redo 지원 위해 명령 이력 리스트 관리
 
 ## Issue 7. 철자 검사와 붙임표 처리

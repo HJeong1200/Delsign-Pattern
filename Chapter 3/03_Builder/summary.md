@@ -17,7 +17,7 @@
 
 ## 구조
 
-TODO: Add Image
+<img width="309" alt="image" src="https://github.com/user-attachments/assets/28f3f553-8867-4eb9-8cbe-16cf6567b23f" />
 
 ## 참여자
 
@@ -61,3 +61,7 @@ TODO: Add Image
    - 일반적으로 제품은 Builder 클래스의 서브클래스로 정의되는데 제품마다 제품 표현 방법이 달라 공통점을 찾을 수 없는 경우가 많기 때문에 서로 다른 제품에 공통적인 추상 클래스를 정의하지 않음
 
 ## 실제 구현 코드 데모
+
+- Demo 디렉토리의 코드에 대한 실제 예시는 아래 링크에서 확인 가능합니다.
+
+https://stackblitz.com/edit/vitejs-vite-esvadwun?file=README.md

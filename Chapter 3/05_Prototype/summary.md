@@ -18,7 +18,7 @@
 
 ## 구조
 
-TODO: 이미지 추가
+<img width="680" alt="스크린샷 2025-02-09 오후 3 15 04" src="https://github.com/user-attachments/assets/3bcef3a0-fa87-4a6b-bcd2-89cc82ecd62b" />
 
 ## 참여자
 
@@ -49,5 +49,3 @@ TODO: 이미지 추가
 - Clone 메서드 구현
   - 얕은 복사로 충분한 경우가 많지만 복잡한 구조의 경우 깊은 복사 필요
 - 필요한 경우 복사본 생성 및 초기화
-
-## 실제 구현 코드 데모
