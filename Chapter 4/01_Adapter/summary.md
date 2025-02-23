@@ -20,10 +20,10 @@
 ## 구조
 
 - 클래스 어댑터는 다양한 인터페이스를 호환시키기 위해 여러 클래스를 상속받음
-  TODO: Add image
+<img width="1060" alt="image" src="https://github.com/user-attachments/assets/355b6859-7495-4828-826c-557f17411e48" />
 
 - 객체 어댑터는 객체 합성을 사용해서 인터페이스를 호환시킴
-  TODO: Add image
+<img width="1062" alt="image" src="https://github.com/user-attachments/assets/e4a7643f-6c33-40eb-9181-be2369db0440" />
 
 ## 참여자
 
